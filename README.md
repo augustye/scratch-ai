@@ -30,4 +30,4 @@ Run Scratch 3.0 in Browser:
    - you can open the link on PC or iPad
 2. you will find the "MINST" block on the left side
 3. download scratch project: https://github.com/augustye/scratch-ai/raw/master/static/draw.sb3
-4. open the downloaded project 
+4. open the downloaded project in scratch
